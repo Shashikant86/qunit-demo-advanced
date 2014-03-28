@@ -12,6 +12,8 @@
         "grunt-contrib-qunit": "~0.3.0",
         "grunt-contrib-connect": "~0.6.0",
         "grunt-qunit-junit": "~0.1.0",
-        "grunt-qunit-cov": "~0.3.2"
+        "grunt-qunit-cov": "~0.3.2",
+        "grunt-qunit-istanbul" : "*",
+        "grunt-contrib-csslint": "*"
     }
 }
